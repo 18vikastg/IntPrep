@@ -16,11 +16,38 @@ An website for the preperation for online interview
 ✅ **Pre-Filled Notes & Questions** – Both sections come with pre-filled text to guide users.  
 ✅ **User-Friendly Interface** – Designed for an intuitive and distraction-free interview experience.  
 
-## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript (Framework if applicable)  
-- **Backend:** (Specify backend technologies if used, e.g., Node.js, Express)  
-- **Database:** (Mention database if applicable, e.g., MongoDB, Firebase)  
-- **Deployment:** (If deployed, mention where, e.g., Vercel, Netlify)  
 
-## 📂 Project Structure  
+.  
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/i8vikastg/IntPrep.git
+cd interview-meet
+
+
+## 🛠️ Tech Stack  
+- Frontend: HTML, CSS, JavaScript and TypeScript 
+- Backend:  Node.js, Express 
+- Database:  MongoDB, SQL  
+
+🛠️ Future Enhancements
+✅ Adding real-time chat during the interview
+✅ Implementing AI-powered interview insights
+✅ Enhancing security & encryption
+📝 License
+This project is open-source but protected under copyright. See LICENSE for details.
+
+👨‍💻 Author
+Vikas T G
+CSE Engineering Student | JSS Academy of Technical Education, Bengaluru
+📧 Email: vikastg2000@gmail.com
+
+
+
+
+---
+
+This README is structured professionally for your GitHub repo. Let me know if you want modifications! 🚀
 
