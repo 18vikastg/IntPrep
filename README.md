@@ -1,5 +1,6 @@
 # IntPrep
 An website for the preperation for online interview
+![Image alt] (https://github.com/18vikastg/IntPrep/blob/03d7eb05c832b219c0d113c05c4227a25c350f3f/Screenshot%202025-02-02%20164402.png)
 
 
 # Interview Meet - Professional Interview Platform  
