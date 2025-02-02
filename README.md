@@ -34,8 +34,7 @@ cd interview-meet
 
 ## 🛠️ Tech Stack  
 - Frontend: HTML, CSS, JavaScript and TypeScript 
-- Backend:  Node.js, Express 
-- Database:  MongoDB, SQL  
+  
 
 🛠️ Future Enhancements
 ✅ Adding real-time chat during the interview
