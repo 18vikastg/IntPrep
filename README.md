@@ -20,7 +20,7 @@ An website for the preperation for online interview
 ✅ **Pre-Filled Notes & Questions** – Both sections come with pre-filled text to guide users.  
 ✅ **User-Friendly Interface** – Designed for an intuitive and distraction-free interview experience.  
 
-![Image alt]()
+![Image alt](https://github.com/18vikastg/IntPrep/blob/27a93a1eac060a80e2992271b667d8b3e9d14fa6/Screenshot%202025-02-02%20164347.png)
 
 
 ## 🚀 Getting Started  
