@@ -16,8 +16,8 @@ An website for the preperation for online interview
 ✅ **Pre-Filled Notes & Questions** – Both sections come with pre-filled text to guide users.  
 ✅ **User-Friendly Interface** – Designed for an intuitive and distraction-free interview experience.  
 
+![Image alt](https://github.com/18vikastg/IntPrep/blob/344f5fc8cad101d154cd88bc0fe6c1759d1229af/Screenshot%202025-02-02%20164329.png)
 
-.  
 
 ## 🚀 Getting Started  
 
@@ -36,13 +36,7 @@ cd interview-meet
 ✅ Adding real-time chat during the interview
 ✅ Implementing AI-powered interview insights
 ✅ Enhancing security & encryption
-📝 License
-This project is open-source but protected under copyright. See LICENSE for details.
 
-👨‍💻 Author
-Vikas T G
-CSE Engineering Student | JSS Academy of Technical Education, Bengaluru
-📧 Email: vikastg2000@gmail.com
 
 
 
