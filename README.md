@@ -34,6 +34,16 @@ An website for the preperation for online interview
 git clone https://github.com/i8vikastg/IntPrep.git
 cd interview-meet
 
+2️⃣ Install Dependencies
+npm start
+
+3️⃣ Run the Application
+npm start
+
+
+
+
+
 
 ## 🛠️ Tech Stack  
 - Frontend: HTML, CSS, JavaScript and TypeScript 
