@@ -32,7 +32,7 @@ An website for the preperation for online interview
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/i8vikastg/IntPrep.git
-cd interview-meet
+cd IntPrep
 
 2️⃣ Install Dependencies
 npm start
