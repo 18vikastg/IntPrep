@@ -1,6 +1,6 @@
 # IntPrep - Professional Interview Platform 
 ## 🚀 Overview  
-**Interview Meet** is a professional, intuitive, and user-friendly video conferencing platform designed specifically for conducting interviews. Inspired by Google Meet, this application enhances the hiring process with dedicated features such as a real-time notes section, a structured question panel, and seamless meeting controls. 
+**IntPrep** is a professional, intuitive, and user-friendly video conferencing platform designed specifically for conducting interviews. Inspired by Google Meet, this application enhances the hiring process with dedicated features such as a real-time notes section, a structured question panel, and seamless meeting controls. 
 
 
 ![Image alt](https://github.com/18vikastg/IntPrep/blob/344f5fc8cad101d154cd88bc0fe6c1759d1229af/Screenshot%202025-02-02%20164329.png)
