@@ -51,7 +51,9 @@ npm start
 
 
 ## 🛠️ Tech Stack  
-- Frontend: HTML, CSS, JavaScript and TypeScript 
+- Frontend: HTML, CSS, JavaScript and TypeScript , React.js
+- Backend: Node.js
+-Database: PostgreSQL 
   
 
 🛠️ Future Enhancements
